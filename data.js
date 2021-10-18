@@ -10,7 +10,7 @@ localStorage.setItem('Table-2',JSON.stringify([{'item':"Tomato Soup",'cost':125,
 localStorage.setItem('Table-3',JSON.stringify([{'item':"Tomato Soup",'cost':125,'quantity':0},{'item':"Chicken Soup",'cost':170,'quantity':0},{'item':"Corn Soup",'cost':125,'quantity':0},{'item':"Chicken Biryani",'cost':125,'quantity':0},{'item':"Special Veg Biryani",'cost':170,'quantity':0},{'item':"Mutton Biryani",'cost':125,'quantity':0},{'item':"Vanilla",'cost':125,'quantity':0},{'item':"Butter Scotch",'cost':170,'quantity':0},{'item':"Chocolate",'cost':125,'quantity':0},{'item':"Noodles",'cost':125,'quantity':0},{'item':"Fried Rice",'cost':170,'quantity':0},{'item':"Dumplings",'cost':125,'quantity':0},{'item':"Wine",'cost':1000,'quantity':0},{'item':"Cool Drinks",'cost':50,'quantity':0},{'item':"Lemonade",'cost':35,'quantity':0}]));
 
 var MenuList = [
-    { id: 1, item_name: "Tomato Soup", cost: 125, category: "soup" },
+    { id: 1, item_name: "Tomato Soup", cost: 125, category: "soupp" },
     { id: 2, item_name: "Chicken Soup", cost: 170, category: "soup" },
     { id: 3, item_name: "Corn Soup", cost: 125, category: "soup" },
     { id: 4, item_name: "Chicken Biryani", cost: 125, category: "biryani" },
